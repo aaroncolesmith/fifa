@@ -1,0 +1,638 @@
+club_id,club_abbrname,club_name,count
+112658.0,Icons,Icons,222
+10.0,Man City,Manchester City,148
+9.0,Liverpool,Liverpool,144
+73.0,Paris,Paris Saint-Germain,128
+241.0,Barcelona,FC Barcelona,126
+21.0,Bayern,FC Bayern München,123
+22.0,Dortmund,Borussia Dortmund,111
+11.0,Man Utd,Manchester United,110
+45.0,Juventus,Juventus,104
+18.0,Spurs,Tottenham Hotspur,100
+245.0,Ajax,Ajax,100
+48.0,Napoli,Napoli,97
+243.0,R. Madrid,Real Madrid,96
+234.0,Benfica,SL Benfica,94
+66.0,OL,Olympique Lyonnais,93
+461.0,Valencia,Valencia CF,92
+240.0,Atlético,Atlético Madrid,92
+52.0,Roma,Roma,87
+44.0,Inter,Inter,84
+236.0,Porto,FC Porto,83
+5.0,Chelsea,Chelsea,82
+10029.0,Hoffenheim,TSG 1899 Hoffenheim,75
+112172.0,RB Leipzig,RB Leipzig,73
+1.0,Arsenal,Arsenal,73
+69.0,AS Monaco,AS Monaco Football Club SA,72
+47.0,Milan,Milan,71
+1824.0,Frankfurt,Eintracht Frankfurt,70
+325.0,Galatasar.,Galatasaray SK,69
+19.0,West Ham,West Ham United,67
+46.0,Lazio,Lazio,66
+481.0,Sevilla,Sevilla FC,65
+32.0,Leverkusen,Bayer 04 Leverkusen,63
+7.0,Everton,Everton,63
+39.0,Atalanta,Atalanta,62
+34.0,Schalke,FC Schalke 04,61
+65.0,LOSC Lille,LOSC Lille,60
+247.0,PSV,PSV,60
+95.0,Leicester,Leicester City,57
+13.0,Newcastle,Newcastle United,56
+23.0,M'gladbach,Borussia Mönchengladbach,56
+1943.0,B’mouth,Bournemouth,55
+71.0,FC Nantes,FC Nantes,54
+72.0,OGC Nice,OGC Nice,53
+1799.0,C. Palace,Crystal Palace,53
+54.0,Torino,Torino,53
+112139.0,Al Nassr,Al Nassr,52
+483.0,Villarreal,Villarreal CF,52
+2.0,A. Villa,Aston Villa,51
+237.0,Sporting,Sporting CP,51
+450.0,Celta,RC Celta,51
+38.0,Bremen,SV Werder Bremen,49
+449.0,R. Betis,Real Betis,49
+110.0,Wolves,Wolverhampton Wanderers,49
+1819.0,ASSE,AS Saint-Étienne,49
+175.0,Wolfsburg,VfL Wolfsburg,48
+231.0,Cl. Brugge,Club Brugge KV,48
+100765.0,Lokomotiv,Lokomotiv Moscow,48
+111839.0,Guangzhou,Guangzhou Evergrande Taobao,47
+327.0,Beşiktaş,Beşiktaş JK,47
+1795.0,Watford,Watford,47
+74.0,SRFC,Stade Rennais FC,47
+101059.0,Shakhtar,Shakhtar Donetsk,47
+1879.0,América,Club América,46
+1792.0,Norwich,Norwich City,46
+110062.0,Girona,Girona FC,46
+110374.0,Fiorentina,Fiorentina,46
+55.0,Udinese,Udinese,46
+78.0,Celtic,Celtic,45
+605.0,Al Hilal,Al Hilal,45
+219.0,OM,Olympique de Marseille,44
+17.0,So’ton,Southampton,44
+191.0,Salzburg,FC Red Bull Salzburg,44
+1746.0,Empoli,Empoli,44
+393.0,PAOK,PAOK,44
+166.0,Berlin,Hertha BSC,44
+326.0,Fenerbahçe,Fenerbahçe SK,44
+31.0,Köln,1. FC Köln,43
+1808.0,Brighton,Brighton & Hove Albion,43
+144.0,Fulham,Fulham,43
+1837.0,Sampdoria,Sampdoria,43
+111768.0,B. Guoan,Beijing Guoan,43
+101146.0,Kobe,Vissel Kobe,43
+70.0,MHSC,Montpellier Hérault SC,43
+110147.0,Pachuca,Pachuca,43
+1923.0,Luton Town,Luton Town,42
+86.0,Rangers,Rangers FC,42
+110636.0,Düsseldorf,Fortuna Düsseldorf,42
+111140.0,Timbers,Portland Timbers,42
+112387.0,Al Ahli,Al Ahli,42
+76.0,Strasbourg,RC Strasbourg Alsace,42
+101014.0,Başakşehir,Medipol Başakşehir FK,41
+697.0,LA Galaxy,LA Galaxy,41
+110781.0,León,Club León,41
+112885.0,Atlanta,Atlanta United,41
+448.0,Athletic,Athletic Club,41
+467.0,Eibar,SD Eibar,41
+1952.0,Hull City,Hull City,41
+1794.0,Sheff Utd,Sheffield United,40
+112429.0,Guangzhou,Guangzhou R&F FC,40
+232.0,Standard,Standard de Liège,40
+101112.0,Whitecaps,Vancouver Whitecaps FC,40
+229.0,Anderlecht,RSC Anderlecht,40
+315.0,CSKA,CSKA Moscow,40
+1961.0,Cardiff,Cardiff City,40
+109.0,West Brom,West Bromwich Albion,40
+112393.0,Al Taawoun,Al Taawoun,40
+607.0,Al Ittihad,Al Ittihad,40
+112996.0,LAFC,Los Angeles Football Club,40
+15.0,QPR,Queens Park Rangers,40
+112444.0,Sapporo,Hokkaido Consadole Sapporo,39
+112378.0,Dalian Y.,Dalian Yifang FC,39
+1801.0,Preston,Preston North End,39
+100888.0,Leganés,CD Leganés,39
+452.0,Espanyol,RCD Espanyol,39
+100409.0,Augsburg,FC Augsburg,39
+15029.0,U. Chile,Universidad de Chile,39
+1970.0,Tigres,Tigres U.A.N.L.,39
+900.0,Young Boys,BSC Young Boys,39
+1477.0,Jeonbuk,Jeonbuk Hyundai Motors,39
+1790.0,Portsmouth,Portsmouth,39
+112134.0,Phl. Union,Philadelphia Union,39
+1880.0,Guadalaja.,Guadalajara,39
+14.0,N'm Forest,Nottingham Forest,39
+112791.0,SPAL,SPAL,38
+1530.0,Angers SCO,Angers SCO,38
+36.0,Stuttgart,VfB Stuttgart,38
+674.0,Gent,KAA Gent,38
+94.0,Ipswich,Ipswich Town,38
+101047.0,D. Kyiv,FC Dynamo Kyiv,38
+1796.0,Burnley,Burnley,38
+50.0,Parma,Parma,38
+1853.0,Levante,Levante UD,38
+246.0,Feyenoord,Feyenoord,38
+688.0,D.C. United,D.C. United,38
+576.0,Kiel,Holstein Kiel,38
+25.0,Freiburg,Sport-Club Freiburg,37
+1939.0,Hudd'field,Huddersfield Town,37
+127.0,Shrewsbury,Shrewsbury,37
+91.0,Derby,Derby County,37
+2055.0,Sangju,Sangju Sangmu FC,37
+1917.0,Wigan,Wigan Athletic,37
+457.0,R.Sociedad,Real Sociedad,37
+88.0,Birmingham,Birmingham City,37
+1804.0,Bradford,Bradford City,37
+1877.0,B. Aires,Buenos Aires,37
+111657.0,Frosinone,Frosinone,37
+110765.0,Incheon,Incheon United FC,37
+97.0,Millwall,Millwall,36
+673.0,Genk,KRC Genk,36
+110556.0,Genoa,Genoa,36
+28.0,Hamburg,Hamburger SV,36
+149.0,Lincoln,Lincoln City,36
+113219.0,Ohod Club,Ohod Club,36
+1871.0,Legia,Legia Warszawa,36
+1473.0,Ulsan,Ulsan Hyundai Horang-i,36
+112983.0,Tainjin Q.,Tianjin Quanjian FC,36
+192.0,Chievo,Chievo Verona,36
+894.0,Zürich,FC Zürich,36
+112606.0,Orlando,Orlando City Soccer Club,36
+1938.0,Peterboro,Peterborough United,36
+112096.0,Ettifaq,Ettifaq FC,36
+110980.0,CD Viñazur,CD Viñazur,35
+1955.0,Rochdale,Rochdale,35
+1919.0,Bristol C.,Bristol City,35
+110975.0,Católica,Universidad Católica,35
+113222.0,Al-Hazem,Al-Hazem FC,35
+1904.0,NAC Breda,NAC Breda,35
+982.0,Seoul,FC Seoul,35
+111588.0,GyeongNam,GyeongNam FC,35
+110500.0,Braunschw.,Eintracht Braunschweig,35
+167.0,Uerdingen,KFC Uerdingen 05,35
+10030.0,Paderborn,SC Paderborn 07,35
+1793.0,Reading,Reading,35
+59.0,Girondins,FC Girondins de Bordeaux,35
+101148.0,C-Osaka,Cerezo Osaka,35
+112392.0,Al Raed,Al Raed,35
+111138.0,Minnesota,Minnesota United FC,35
+112390.0,Al Fateh,Al Fateh,35
+463.0,Alavés,D. Alavés,35
+112448.0,VV Nagasaki,V-Varen Nagasaki,35
+294.0,ESTAC,ESTAC Troyes,35
+89.0,Charlton,Charlton Athletic,35
+112540.0,SIPG FC,Shanghai SIPG FC,35
+111723.0,Pasto,Deportivo Pasto,35
+1516.0,Midtjyl.,FC Midtjylland,34
+417.0,Molde,Molde FK,34
+112093.0,G-Osaka,Gamba Osaka,34
+693.0,Chicago,Chicago Fire Soccer Club,34
+1945.0,Bury,Bury,34
+361.0,Stevenage,Stevenage,34
+101104.0,Santa Fe,Independiente Santa Fe,34
+111730.0,Kawasaki,Kawasaki Frontale,34
+111724.0,Shandong,Shandong Luneng Taishan,34
+101144.0,Iwata,Júbilo Iwata,34
+1797.0,Rotherham,Rotherham United,34
+680.0,St. Truiden,Sint-Truidense VV,34
+111974.0,Sassuolo,Sassuolo,34
+169.0,Mainz,1. FSV Mainz 05,34
+919.0,Brann,SK Brann,34
+113160.0,Tosu,Sagan Tosu,34
+110313.0,Accrington,Accrington Stanley,34
+111065.0,Salt Lake,Real Salt Lake,34
+896.0,Basel,FC Basel,34
+696.0,Sporting,Sporting Kansas City,34
+112836.0,Sendai,Vegalta Sendai,34
+1960.0,Swansea,Swansea City,34
+100767.0,Spartak,Spartak Moscow,34
+100634.0,Heracles,Heracles Almelo,34
+100628.0,FC Emmen,FC Emmen,34
+1968.0,Cádiz,Cádiz CF,34
+1860.0,Getafe,Getafe CF,34
+113161.0,Shonan,Shonan Bellmare,34
+435.0,Neuchâtel,Neuchâtel Xamax,34
+1954.0,Southend,Southend United,34
+573.0,Málaga,Málaga CF,33
+1925.0,Brentford,Brentford,33
+1809.0,TFC,Toulouse Football Club,33
+111674.0,Al Shabab,Al Shabab,33
+112409.0,Carpi,Carpi,33
+15048.0,Tranmere,Tranmere Rovers,33
+1906.0,AZ,AZ,33
+211.0,D. Zagreb,GNK Dinamo Zagreb,33
+111651.0,Toronto FC,Toronto FC,33
+112391.0,Qadisiyah,Al Qadisiyah,33
+111774.0,Tianjin FC,Tianjin TEDA FC,33
+1940.0,Mansfield,Mansfield Town,33
+1798.0,MK Dons,Milton Keynes Dons,33
+110955.0,Shanghai,Shanghai Greenland Shenhua FC,33
+420.0,Zabrze,Górnik Zabrze,33
+485.0,Hannover,Hannover 96,33
+819.0,København,FC København,33
+112092.0,Nagoya,Nagoya Grampus,33
+106.0,Sunderland,Sunderland,33
+110831.0,Lugo,CD Lugo,33
+266.0,Slavia,Slavia Praha,33
+741.0,Antalyaspor,Antalyaspor,33
+1937.0,Notts Co,Notts County,33
+112115.0,Gangwon,Gangwon FC,33
+111239.0,Ingolstadt,FC Ingolstadt 04,33
+379.0,Reims,Stade de Reims,33
+112162.0,Jiangsu FC,Jiangsu Suning FC,33
+8.0,Leeds,Leeds United,33
+698.0,Houston,Houston Dynamo,33
+190.0,Brescia,Brescia,32
+1474.0,Pohang,Pohang Steelers,32
+189.0,Bologna,Bologna,32
+1873.0,Wisła Kra.,Wisła Kraków,32
+1847.0,Ascoli,Ascoli,32
+1478.0,Jeju,Jeju United FC,32
+1800.0,Coventry,Coventry City,32
+1842.0,Cagliari,Cagliari,32
+1569.0,Płock,Wisła Płock,32
+1831.0,Union Ber.,1. FC Union Berlin,32
+1803.0,Walsall,Walsall,32
+472.0,Las Palmas,UD Las Palmas,32
+480.0,Rayo,Rayo Vallecano,32
+110329.0,St. Pauli,FC St. Pauli,32
+280.0,Olympiacos,Olympiacos CFP,32
+111086.0,Gliwice,Piast Gliwice,32
+101150.0,F.C. Tokyo,F.C. Tokyo,32
+101147.0,Kashima,Kashima Antlers,32
+101145.0,Kashiwa,Kashiwa Reysol,32
+242.0,Deportivo,RC Deportivo,32
+3.0,Blackburn,Blackburn Rovers,32
+230.0,Antwerp,Royal Antwerp FC,32
+62.0,EAG,En Avant de Guingamp,32
+113259.0,Malatyaspor,Evkur Yeni Malatyaspor,32
+1032.0,Monterrey,Monterrey,32
+687.0,Columbus,Columbus Crew SC,32
+1896.0,Braga,SC Braga,32
+111575.0,Urawa,Urawa Red Diamonds,32
+112165.0,Chongqing,Chongqing Lifan FC,32
+110745.0,Jagiellonia,Jagiellonia Białystok,32
+1909.0,Vitesse,Vitesse,32
+689.0,New York,New York Red Bulls,32
+700.0,Elfsborg,IF Elfsborg,32
+113157.0,Hiroshima,Sanfrecce Hiroshima,31
+1944.0,Cambridge,Cambridge United,31
+110169.0,Fort. Köln,SC Fortuna Köln,31
+101149.0,Shimizu,Shimizu S-Pulse,31
+101121.0,Necaxa,Club Necaxa,31
+100805.0,St. Mirren,St. Mirren,31
+110597.0,Meppen,SV Meppen,31
+101085.0,Racing Club,Racing Club,31
+1949.0,Scunthorpe,Scunthorpe United,31
+121.0,Crewe,Crewe Alexandra,31
+15005.0,Waregem,SV Zulte-Waregem,31
+92.0,Grimsby,Grimsby Town,31
+1887.0,Guimarães,Vitória Guimarães,31
+112978.0,CFFC,Hebei China Fortune FC,31
+27.0,Rostock,FC Hansa Rostock,31
+112259.0,Wimbledon,AFC Wimbledon,31
+462.0,R.Valladolid,R. Valladolid CF,31
+1475.0,Jeonnam,Jeonnam Dragons,31
+487.0,Osnabrück,VfL Osnabrück,31
+110700.0,Lotte,VfL Sportfreunde Lotte,31
+506.0,Aue,FC Erzgebirge Aue,31
+543.0,Regensburg,SSV Jahn Regensburg,31
+1806.0,Stoke City,Stoke City,31
+433.0,AIK,AIK,31
+205.0,Venezia,Venezia,31
+1013.0,San Lorenzo,San Lorenzo de Almagro,31
+983.0,Suwon,Suwon Samsung Bluewings,31
+112224.0,Melb. City,Melbourne City,31
+694.0,Colorado,Colorado Rapids,31
+33.0,TSV 1860,TSV 1860 München,31
+224.0,Nîmes OL,Nîmes Olympique,31
+112026.0,Benevento,Benevento,31
+271.0,Aarhus,Aarhus GF,31
+422.0,Cork City,Cork City,31
+111766.0,Wellington,Wellington Phoenix,31
+112427.0,Wanderers,Western Sydney Wanderers,31
+111722.0,Tolima,Deportes Tolima,31
+357.0,Morecambe,Morecambe,31
+298.0,Rosenborg,Rosenborg BK,31
+1951.0,Oxford Utd,Oxford United,30
+110468.0,Plzeň,Viktoria Plzeň,30
+112537.0,B. Renhe,Beijing Renhe,30
+423.0,St. Pats,St. Patrick's Athletic,30
+635.0,Graafschap,De Graafschap,30
+710.0,Djurgården,Djurgårdens IF,30
+1936.0,Cheltenham,Cheltenham Town,30
+1935.0,Colchester,Colchester United,30
+1926.0,Blackpool,Blackpool,30
+101151.0,Yokohama,Yokohama F・Marinos,30
+320.0,Malmö,Malmö FF,30
+1962.0,Bristol R.,Bristol Rovers,30
+110839.0,Huesca,SD Huesca,30
+2017.0,Hartberg,TSV Hartberg,30
+12.0,M’boro,Middlesbrough,30
+101103.0,Medellín,Independiente Medellín,30
+100081.0,Kortrijk,KV Kortrijk,30
+492.0,Wehen,SV Wehen-Wiesbaden,30
+143.0,Exeter,Exeter City,30
+111144.0,Seattle,Seattle Sounders FC,30
+111327.0,Huachipato,CD Huachipato,30
+112389.0,Al Faisaly,Al Faisaly,30
+1807.0,Sheff Wed,Sheffield Wednesday,30
+110913.0,W. Beveren,Waasland-Beveren,30
+1480.0,Carlisle,Carlisle United,30
+160.0,VfL Bochum,VfL Bochum 1848,30
+110591.0,Jena,FC Carl Zeiss Jena,30
+1907.0,Willem II,Willem II,30
+111769.0,Changchun,Changchun Yatai FC,30
+1913.0,Heerenveen,SC Heerenveen,30
+113142.0,Alanyaspor,Alanyaspor,30
+162.0,FC Energie,FC Energie Cottbus,30
+64.0,RC Lens,Racing Club de Lens,30
+1915.0,Groningen,FC Groningen,30
+1439.0,Kalmar,Kalmar FF,30
+837.0,Dundalk,Dundalk,30
+111660.0,Vendsyssel,Vendsyssel FF,29
+110832.0,Granada,Granada CF,29
+209.0,Sturm Graz,SK Sturm Graz,29
+322.0,Grasshopp.,Grasshopper Club Zürich,29
+10032.0,Lugano,FC Lugano,29
+1881.0,U.N.A.M.,U.N.A.M.,29
+159.0,Bielefeld,DSC Arminia Bielefeld,29
+503.0,Dresden,SG Dynamo Dresden,29
+110502.0,Darmstadt,SV Darmstadt 98,29
+2007.0,Lokeren,Sporting Lokeren,29
+1876.0,River Plate,River Plate,29
+82.0,Kilmarnock,Kilmarnock,29
+111396.0,C. Coast,Central Coast Mariners,29
+1867.0,Córdoba,Córdoba CF,29
+111139.0,Impact,Impact Montréal,29
+57.0,AJ Auxerre,AJ Auxerre,29
+101033.0,Konyaspor,Atiker Konyaspor,29
+110911.0,Foggia,Foggia,29
+101101.0,Junior,Junior FC,29
+111235.0,Heidenheim,1. FC Heidenheim 1846,29
+101100.0,Nacional,Atlético Nacional,29
+1750.0,Ce. Brugge,KSV Cercle Brugge,29
+111779.0,Henan FC,Henan Jianye FC,29
+165.0,Fuerth,SpVgg Greuther Fuerth,29
+670.0,Charleroi,Sporting Charleroi,29
+110930.0,Pirates,Orlando Pirates,29
+110588.0,Magdeburg,1. FC Magdeburg,29
+1929.0,Plymouth,Plymouth Argyle,29
+110373.0,Salerno,Salerno,29
+1934.0,Swindon,Swindon Town,29
+278.0,AEK Athens,AEK Athens,29
+711.0,Häcken,BK Häcken,29
+110178.0,Sandhausen,SV Sandhausen,29
+691.0,N. England,New England Revolution,29
+682.0,Oostende,KV Oostende,29
+206.0,Verona,Hellas Verona,29
+101099.0,América,América de Cali,29
+110456.0,VAFC,Valenciennes FC,29
+113057.0,Al Fayha,Al Fayha,29
+2013.0,Eupen,KAS Eupen,29
+112990.0,Al Batin,Al Batin,29
+634.0,Fortuna S.,Fortuna Sittard,29
+172.0,Unterhaching,SpVgg Unterhaching,29
+1825.0,Duisburg,MSV Duisburg,28
+101105.0,Millonar.,Millonarios FC,28
+269.0,Brøndby,Brøndby IF,28
+112533.0,Antofagas.,CD Antofagasta,28
+1823.0,ASNL,AS Nancy Lorraine,28
+68.0,FC Metz,Football Club de Metz,28
+254.0,Rapid,SK Rapid Wien,28
+272.0,Odense,Odense Boldklub,28
+110197.0,Würzburg,FC Würzburger Kickers,28
+111091.0,Gdańsk,Lechia Gdańsk,28
+1802.0,Gillingham,Gillingham,28
+4.0,Bolton,Bolton Wanderers,28
+81.0,Hibernian,Hibernian,28
+111083.0,Kielce,Korona Kielce,28
+171.0,Nürnberg,1. FC Nürnberg,28
+101114.0,Atlas,Club Atlas,28
+184.0,Hamilton,Hamilton Academical FC,28
+378.0,Brest,Stade Brestois 29,28
+111560.0,Mouscron,Royal Excel Mouscron,28
+1843.0,Palermo,Palermo,28
+110746.0,Szczecin,Pogoń Szczecin,28
+113173.0,Östersunds,Östersunds FK,28
+110569.0,Dijon FCO,Dijon FCO,28
+112254.0,Newport,Newport County,28
+621.0,Livingston,Livingston FC,28
+650.0,ADO,ADO Den Haag,28
+920.0,Vålerenga,Vålerenga Fotball,28
+142.0,Doncaster,Doncaster Rovers,28
+112992.0,Bucaramanga,Atlético Bucaramanga,28
+200.0,Pescara,Pescara,28
+110747.0,Cracovia,Cracovia,28
+1914.0,PEC Zwolle,PEC Zwolle,28
+1933.0,Wycombe,Wycombe Wanderers,28
+1930.0,N'hampton,Northampton Town,28
+897.0,Luzern,FC Luzern,28
+2045.0,Innsbruck,FC Wacker Innsbruck,28
+2056.0,Daegu,Daegu FC,28
+561.0,Forest G.,Forest Green Rovers,28
+1463.0,Haugesund,FK Haugesund,28
+110592.0,FSV Zwickau,FSV Zwickau,28
+226.0,FCSM,FC Sochaux-Montbéliard,28
+101037.0,Rizespor,Çaykur Rizespor,28
+111273.0,Red Star,Red Star FC,28
+101007.0,Ankaragücü,MKE Ankaragücü,28
+111393.0,Adelaide,Adelaide United,28
+110770.0,Sion,FC Sion,28
+1878.0,Cruz Azul,Cruz Azul,28
+111340.0,Akhisarspor,Akhisar Belediyespor,28
+531.0,Münster,SC Preußen Münster,28
+15019.0,Nàstic,Nàstic,28
+15015.0,Burton,Burton Albion,28
+550.0,Aalen,VfR Aalen,28
+210.0,SM Caen,Stade Malherbe Caen,28
+112977.0,Guizhou H.,Guizhou Hengfeng FC,27
+110749.0,Z. Lubin,Zagłębie Lubin,27
+110482.0,Halle,Hallescher FC,27
+256.0,Austria,FK Austria Wien,27
+111082.0,Gdynia,Arka Gdynia,27
+1816.0,Amiens SC,Amiens SC,27
+112531.0,Iquique,Deportes Iquique,27
+217.0,FC Lorient,FC Lorient,27
+477.0,Numancia,CD Numancia,27
+695.0,FC Dallas,FC Dallas,27
+112075.0,St. Pölten,SKN St. Pölten,27
+111993.0,Cittadella,Cittadella,27
+917.0,Stabæk,Stabæk Fotball,27
+918.0,Bodø/Glimt,FK Bodø/Glimt,27
+111822.0,Wolfsberg,Wolfsberger AC,27
+111089.0,Zagłębie S,Zagłębie Sosnowiec,27
+1715.0,Thun,FC Thun,27
+1447.0,Sønderjys.,SønderjyskE,27
+1903.0,Utrecht,FC Utrecht,27
+111434.0,Cremona,Cremona,27
+1932.0,Barnsley,Barnsley,27
+112579.0,Petrolera,Alianza Petrolera,27
+111400.0,Sydney,Sydney FC,27
+100651.0,VVV-Venlo,VVV-Venlo,27
+101102.0,Cali,Deportivo Cali,27
+111092.0,Wrocław,Śląsk Wrocław,27
+1832.0,Karlsruhe,Karlsruher SC,27
+112828.0,NYCFC,New York City FC,26
+111821.0,Admira,FC Admira Wacker Mödling,26
+111379.0,Großaspach,SG Sonnenhof Großaspach,26
+111339.0,Kasimpaşa,Kasimpaşa SK,26
+110929.0,Chiefs,Kaizer Chiefs,26
+112408.0,Al Wehda,Al Wehda,26
+112528.0,Huila,Atlético Huila,26
+112578.0,R. Águilas,Rionegro Águilas,26
+100804.0,St.Johnstn,St. Johnstone FC,26
+1028.0,Monarcas,Monarcas Morelia,26
+260.0,Tenerife,CD Tenerife,26
+15009.0,Altach,SCR Altach,26
+898.0,St. Gallen,FC St. Gallen,26
+1928.0,Port Vale,Port Vale,26
+742.0,Bursaspor,Bursaspor,26
+101026.0,Göztepe,Göztepe SK,26
+708.0,Hammarby,Hammarby IF,26
+83.0,Motherwell,Motherwell,26
+306.0,Shamrock,Shamrock Rovers,26
+199.0,Perugia,Perugia,26
+922.0,Strømsgod.,Strømsgodset IF,26
+1882.0,Toluca,Deportivo Toluca,26
+110144.0,Santos,Santos Laguna,26
+1456.0,ODD,Odds BK,26
+267.0,Sp. Praha,Sparta Praha,26
+305.0,Bohemians,Bohemian FC,26
+252.0,LASK Linz,LASK Linz,26
+1446.0,Horsens,AC Horsens,26
+436.0,Trabzon.,Trabzonspor,26
+110741.0,La Spezia,La Spezia,26
+244.0,Zaragoza,R. Zaragoza,26
+1596.0,Sundsvall,GIF Sundsvall,26
+112505.0,Miedź L.,Miedź Legnica,25
+111398.0,Newcastle,Newcastle Jets,25
+346.0,Yeovil,Yeovil Town,25
+1445.0,Esbjerg,Esbjerg fB,25
+112526.0,Envigado,Envigado FC,25
+112709.0,Temuco,Club Deportes Temuco,25
+1920.0,Oldham,Oldham Athletic,25
+1898.0,Boavista,Boavista FC,25
+10019.0,Feirense,CD Feirense,25
+111397.0,M. Victory,Melbourne Victory,25
+459.0,Sporting,R. Sporting,25
+111395.0,Brisbane,Brisbane Roar,25
+112199.0,Sarpsborg,Sarpsborg 08 FF,25
+113459.0,Kristian.,Kristiansund BK,25
+110734.0,Crotone,Crotone,25
+299.0,Lillestrøm,Lillestrøm SK,25
+112903.0,Jaguares,Jaguares Fútbol Club,25
+112260.0,Fleetwood,Fleetwood Town,25
+614.0,AC Ajaccio,Athlétic Club Ajaccio,25
+110150.0,Querétaro,Querétaro,25
+1788.0,Nordsjæl.,FC Nordsjælland,25
+702.0,Norrköping,IFK Norrköping,25
+80.0,Hearts,Heart of Midlothian,25
+753.0,Waterford,Waterford FC,25
+111328.0,Palestino,CD Palestino,25
+1785.0,Mattersburg,SV Mattersburg,25
+29.0,K'lautern,1. FC Kaiserslautern,24
+822.0,Vejle,Vejle Boldklub,24
+111817.0,Paris FC,Paris FC,24
+703.0,Trelleborg,Trelleborgs FF,24
+705.0,Örebro,Örebro SK,24
+479.0,Osasuna,CA Osasuna,24
+113458.0,Sirius,IK Sirius,24
+1738.0,Havre AC,Havre Athletic Club,24
+112200.0,Ranheim TF,Ranheim Fotball,24
+1959.0,Macclesf.,Macclesfield Town,24
+1786.0,Randers,Randers FC,24
+100325.0,HJK,HJK Helsinki,24
+112534.0,Concepción,CD Universidad de Concepción,24
+110406.0,Colón,Colón de Santa Fe,24
+110145.0,Veracruz,Tiburones Rojos de Veracruz,24
+101106.0,O. Caldas,Once Caldas,24
+319.0,Göteborg,IFK Göteborg,24
+101041.0,Sivasspor,Sivasspor,24
+1815.0,Clermont,Clermont Foot 63,24
+1854.0,Albacete,Albacete Bpie,24
+110152.0,Puebla,Puebla,23
+112584.0,Everton,CD Everton de Viña del Mar,23
+665.0,Setúbal,Vitória Setúbal,23
+1861.0,Almería,UD Almería,23
+563.0,Sligo,Sligo Rovers,23
+180.0,Dundee FC,Dundee FC,23
+101020.0,Kayserispor,Kayserispor,23
+744.0,Rio Ave,Rio Ave FC,23
+112276.0,US Orléans,US Orléans Loiret Football,23
+820.0,Aalborg,Aalborg BK,23
+111705.0,Brommapoj.,IF Brommapojkarna,23
+111399.0,Perth,Perth Glory,23
+1971.0,Excelsior,Excelsior,23
+110580.0,R. Central,Rosario Central,23
+112535.0,La Calera,Unión La Calera,23
+112523.0,La Equidad,La Equidad,23
+112516.0,Tondela,Tondela,22
+110827.0,R. Oviedo,R. Oviedo,22
+111678.0,Tijuana,Club Tijuana,22
+77.0,Aberdeen,Aberdeen,22
+112425.0,Hobro,Hobro IK,22
+111710.0,Defensa,Defensa y Justicia,22
+347.0,Lecce,Lecce,22
+110912.0,Padova,Padova,22
+100831.0,Alcorcón,AD Alcorcón,22
+112527.0,Patriotas,Patriotas Boyacá FC,22
+111928.0,San Jose,San Jose Earthquakes,22
+1889.0,Belenenses,CF Os Belenenses,22
+110093.0,Independ.,Independiente,22
+418.0,Tromsø,Tromsø IL,21
+110890.0,Crawley,Crawley Town,21
+111711.0,Huracán,Club Atlético Huracán,21
+518.0,Chaves,Chaves,21
+112116.0,O'Higgins,CD O'Higgins,21
+873.0,Poznań,Lech Poznań,21
+1524.0,Start,IK Start,21
+112668.0,San Luis,San Luis de Quillota,21
+1900.0,Moreirense,Moreirense FC,21
+101097.0,Audax,Audax Italiano,20
+110854.0,Reus,CF Reus,20
+110581.0,Patronato,Patronato,20
+110977.0,Española,Unión Española,20
+111022.0,Belgrano,Belgrano de Córdoba,20
+110395.0,Lanús,Club Atlético Lanús,20
+445.0,Derry City,Derry City,20
+101088.0,Vélez,Vélez Sarsfield,20
+1884.0,Panathin.,Panathinaikos FC,20
+113876.0,Dalkurd FF,Dalkurd FF,20
+112670.0,Talleres,Club Atlético Talleres,20
+112655.0,Curicó Un.,Curicó Unido,20
+666.0,Aves,Desportivo Aves,20
+1757.0,Sandefjord,Sandefjord Fotball,20
+10031.0,PSC,Portimonense SC,19
+110316.0,Gazélec,Gazélec Football Club Ajaccio,19
+111716.0,Unión,Unión de Santa Fe,19
+111715.0,Tigre,Club Atlético Tigre,19
+1844.0,Livorno,Livorno,19
+212.0,La Berri,La Berrichonne de Châteauroux,19
+111708.0,Tucumán,Atlético Tucumán,19
+1893.0,Marítimo,CS Marítimo,19
+1891.0,Funchal,Funchal,18
+111707.0,Aldosivi,Club Atlético Aldosivi,18
+469.0,Extremadura,Extremadura UD,18
+1813.0,Chamois FC,Chamois Niortais Football Club,18
+838.0,Bray,Bray Wanderers,18
+468.0,Elche,Elche CF,17
+111035.0,Lobos,Lobos B.U.A.P.,17
+110404.0,Banfield,Club Atlético Banfield,17
+112168.0,Cosenza C.,Cosenza Calcio,16
+749.0,Erzurum BB,Büyükşehir Belediye Erzurumspor,16
+111285.0,Limerick,Limerick FC,16
+453.0,Mallorca,RCD Mallorca,15
+110066.0,Rayo M.,Rayo Majadahonda,15
+101084.0,Gimnasia,Gimnasia y Esgrima La Plata,15
+111706.0,Godoy Cruz,Godoy Cruz,15
+1805.0,Grenoble,Grenoble Foot 38,14
+110396.0,Newell's,Newell's Old Boys,14
+111019.0,Argentinos,Argentinos Juniors,14
+111713.0,San Martín,San Martín,14
+111714.0,CASM,San Martín de Tucumán,13
+101083.0,Estudiantes,Estudiantes de La Plata,11
+1438.0,Santa Clara,Santa Clara,11
+112970.0,Leones FC,Leones FC,11
+113948.0,AS Béziers,AS Béziers,11
+112019.0,B. Chicó,Boyacá Chicó FC,9

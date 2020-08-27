@@ -1,0 +1,44 @@
+league_id,league_abbrname,league_name,count
+13.0,ENG 1,Premier League,1399
+31.0,ITA 1,Serie A TIM,1139
+19.0,GER 1,Bundesliga,1063
+53.0,ESP 1,LaLiga Santander,1063
+16.0,FRA 1,Ligue 1 Conforama,952
+14.0,ENG 2,EFL Championship,914
+60.0,ENG 3,EFL League One,772
+39.0,MLS,Major League Soccer,768
+61.0,ENG 4,EFL League Two,671
+10.0,NED 1,Eredivisie,625
+349.0,JPN 1,Meiji Yasuda J1 League,613
+20.0,GER 2,Bundesliga 2,583
+308.0,POR 1,Liga NOS,571
+2076.0,GER 3,3. Liga,564
+68.0,TUR 1,Süper Lig,559
+350.0,SAU 1,Saudi Professional League,556
+2012.0,CHN 1,CSL,552
+54.0,ESP 2,LaLiga 1 I 2 I 3,536
+336.0,COL 1,Liga Dimayor,535
+4.0,BEL 1,Belgium Pro League,526
+341.0,MEX 1,LIGA Bancomer MX,520
+353.0,ARG 1,SAF,514
+17.0,FRA 2,Domino’s Ligue 2,484
+32.0,ITA 2,Calcio B,483
+66.0,POL 1,Ekstraklasa,464
+335.0,CHI 1,Campeonato Scotiabank,440
+56.0,SWE 1,Allsvenskan,432
+41.0,NOR 1,Eliteserien,429
+83.0,KOR 1,K LEAGUE Classic,405
+1.0,DEN 1,Superliga,395
+50.0,SPFL,Scottish Premiership,347
+80.0,AUT 1,Österreichische Fußball-Bundesliga,339
+189.0,SUI 1,Raiffeisen Super League,309
+351.0,AUS 1,Hyundai A-League,271
+65.0,IRL 1,SSE Airtricity League,238
+2118.0,ICN,Icons,222
+3006.0,RUS 1,League of Russia,127
+63.0,GRE 1,Hellas Liga,123
+319.0,CZE 1,Česká Liga,90
+332.0,UKR 1,Ukrayina Liha,84
+347.0,RSA 1,South African FL,57
+317.0,1. HNL,Liga Hrvatska,33
+322.0,FIN 1,Finnliiga,24
