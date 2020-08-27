@@ -136,6 +136,10 @@ def top_players_scatter(df):
     g = px.scatter(df.loc[df.points > 10], x='goals', y='assists', color='preferredposition', title='Goals / Assists for Top Players', hover_name='player_name', size='games')
     st.plotly_chart(g)
 
+def ga(event_category, event_action, event_label):
+    st.write('<img src="https://www.google-analytics.com/collect?v=1&tid=UA-18433914-1&cid=555&aip=1&t=event&ec='+event_category+'&ea='+event_action+'&el='+event_label+'">',unsafe_allow_html=True)
+
+
 def top_goalscorer(df):
     df['player_rating'] = df['player_name'] + ' ' + df['rating'].astype('str')
     fig = px.bar(df.sort_values('goals',ascending=False).head(25),
@@ -155,12 +159,14 @@ def heading(df, club_name):
 def main():
     # _max_width_()
     st.title('FIFA Ultimate Team Stats Dashboard')
+    ga('FIFA','Page Load', 'Page Load')
     genre = st.radio("Add a X-UT-SID or Search for you Club Name if you have searched your club before", ( 'Club Name','X-UT-SID'))
 
     if genre == 'X-UT-SID':
         x_ut_sid = st.text_input('X-UT-SID', '')
         club_name = st.text_input('Club Name', '')
         submit = st.button('Submit')
+        ga('FIFA','UT-SID', 'Submit')
         if submit:
             try:
                 df = fut_api(x_ut_sid)
@@ -175,6 +181,7 @@ def main():
                 top_clubs_bar(df)
                 top_leagues_bar(df)
                 top_nations_bar(df)
+                ga('FIFA','UT-SID', 'Success')
 
             except:
                 'Sorry, that UT SID failed'
@@ -183,6 +190,7 @@ def main():
         club_name = st.text_input('Club Name -- type in your club name to search or hit Search to see Example United','Example United')
         submit = st.button('Search')
         if submit:
+            ga('FIFA','Club Name', club_name)
             try:
                 if len(club_name) > 3:
                     df = get_from_s3(club_name)
@@ -194,6 +202,7 @@ def main():
                     top_clubs_bar(df)
                     top_leagues_bar(df)
                     top_nations_bar(df)
+                    ga('FIFA',club_name, 'Success')
 
                 else:
                     'Club Name must be more than 3 characters'
