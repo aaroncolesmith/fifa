@@ -154,6 +154,7 @@ def heading(df, club_name):
 
 def main():
     # _max_width_()
+    st.title('FIFA Ultimate Team Stats Dashboard')
     genre = st.radio("Add a X-UT-SID or Search for you Club Name if you have searched your club before", ( 'Club Name','X-UT-SID'))
 
     if genre == 'X-UT-SID':
@@ -179,7 +180,7 @@ def main():
                 'Sorry, that UT SID failed'
 
     if genre == 'Club Name':
-        club_name = st.text_input('Club Name -- type in your club name to search or hit Search to see Example United','Example United.')
+        club_name = st.text_input('Club Name -- type in your club name to search or hit Search to see Example United','Example United')
         submit = st.button('Search')
         if submit:
             try:
