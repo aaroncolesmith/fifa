@@ -116,6 +116,17 @@ def top_clubs_bar(df):
     h.update_yaxes(title='# of Players')
     st.plotly_chart(h)
 
+def clubs_rating(df):
+    fig = px.scatter(df.groupby(['club_abbrname']).agg({'player_name':'size','rating':'mean'}).reset_index(drop=False).sort_values(['player_name'],ascending=False).head(100),
+    x='player_name',
+    y='rating',
+    color='club_abbrname'
+    )
+    fig.update_xaxes(title='# of Players')
+    fig.update_yaxes(title='Avg Rating')
+    fig.update_traces(marker=dict(opacity=.8,size=10,line=dict(width=1,color='DarkSlateGrey')))
+    st.plotly_chart(fig)
+
 def top_leagues_bar(df):
     i=px.bar(df.groupby(['league_name']).size().to_frame('count').sort_values(['count'], ascending=False).reset_index().head(25), x='league_name', y='count', title='Number of Players by League')
     i.update_xaxes(title='League')
@@ -129,19 +140,35 @@ def top_nations_bar(df):
     st.plotly_chart(j)
 
 def ppg_scatter(df):
-    f = px.scatter(df, x='ppg', y='rating', color='preferredposition', title='Points Per Game by Rating', hover_name='player_name', size='games')
+    df['player_rating'] = df['player_name'] + ' - ' + df['rating'].astype('str')
+    f = px.scatter(df.loc[df.games > 5], x='ppg', y='rating', color='preferredposition', title='Points Per Game by Rating', hover_name='player_rating', size='games',hover_data=['club_name','nation_name'])
+    f.update_traces(marker=dict(opacity=.8,sizemin=1,line=dict(width=1,color='DarkSlateGrey')))
     st.plotly_chart(f)
 
 def top_players_scatter(df):
-    g = px.scatter(df.loc[df.points > 10], x='goals', y='assists', color='preferredposition', title='Goals / Assists for Top Players', hover_name='player_name', size='games')
+    df['player_rating'] = df['player_name'] + ' - ' + df['rating'].astype('str')
+    g = px.scatter(df.loc[df.points > 10], x='goals', y='assists', color='preferredposition', title='Goals / Assists for Top Players', hover_name='player_rating', size='games',hover_data=['club_name','nation_name'])
+    g.update_traces(marker=dict(opacity=.8,sizemin=1,line=dict(width=1,color='DarkSlateGrey')))
     st.plotly_chart(g)
+
+def games_rating_scatter(df):
+    df['player_rating'] = df['player_name'] + ' - ' + df['rating'].astype('str')
+    fig = px.scatter(df.loc[df.games > 10],
+        x='games',
+        y='rating',
+        color='preferredposition',
+        hover_name='player_rating',
+        hover_data=['club_name','nation_name'],
+        title='Games Played & Player Rating')
+    fig.update_traces(marker=dict(opacity=.8,size=10,line=dict(width=1,color='DarkSlateGrey')))
+    st.plotly_chart(fig)
 
 def ga(event_category, event_action, event_label):
     st.write('<img src="https://www.google-analytics.com/collect?v=1&tid=UA-18433914-1&cid=555&aip=1&t=event&ec='+event_category+'&ea='+event_action+'&el='+event_label+'">',unsafe_allow_html=True)
 
 
 def top_goalscorer(df):
-    df['player_rating'] = df['player_name'] + ' ' + df['rating'].astype('str')
+    df['player_rating'] = df['player_name'] + ' - ' + df['rating'].astype('str')
     fig = px.bar(df.sort_values('goals',ascending=False).head(25),
             x='player_rating',
             y='goals',
@@ -178,7 +205,9 @@ def main():
                 top_goalscorer(df)
                 ppg_scatter(df)
                 top_players_scatter(df)
+                games_rating_scatter(df)
                 top_clubs_bar(df)
+                clubs_rating(df)
                 top_leagues_bar(df)
                 top_nations_bar(df)
                 ga('FIFA','UT-SID', 'Success')
@@ -199,7 +228,9 @@ def main():
                     top_goalscorer(df)
                     ppg_scatter(df)
                     top_players_scatter(df)
+                    games_rating_scatter(df)
                     top_clubs_bar(df)
+                    clubs_rating(df)
                     top_leagues_bar(df)
                     top_nations_bar(df)
                     ga('FIFA',club_name, 'Success')
